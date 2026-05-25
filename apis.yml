@@ -1,0 +1,108 @@
+aid: toyota-connected
+name: Toyota Connected
+description: >-
+  Toyota Connected is Toyota Motor Corporation's global connected mobility
+  technology arm, building the data, telematics, and software platforms that
+  power Toyota and Lexus connected vehicle services worldwide. The group
+  operates as a federation of regional subsidiaries — TOYOTA Connected
+  Corporation (Japan), Toyota Connected North America (TCNA, Plano, Texas),
+  TOYOTA Connected Europe (TCEU, United Kingdom), TOYOTA Connected India
+  (TCIN), TOYOTA Connected Asia Pacific, and Toyota Tsusho Connected Middle
+  East — and runs Toyota's Mobility Service Platform (MSPF) and the
+  Drivelink telematics backbone behind Safety Connect, Service Connect,
+  Remote Connect, Destination Assist, Wi-Fi Connect, and the "Hey Toyota"
+  in-vehicle voice assistant. TCNA reports surpassing five million connected
+  customer calls across Toyota and Lexus and runs Toyota's Big Data Center
+  for connected-vehicle data. KINTO — Toyota's mobility services brand for
+  car subscription, car-sharing, ride-hailing, and carpooling (KINTO One,
+  KINTO Flex, KINTO Share, KINTO Ride, KINTO Join) — sits adjacent in
+  Toyota's mobility portfolio and is powered by KINTO Technologies on AWS.
+  Toyota exposes developer portals at developer.eig.toyota.com (Toyota API
+  Portal covering TMC, TMNA, TEMA, TFS, NAMC, and other entities) and
+  developer.toyotaconnected.eu (Toyota Connected EU API services, including
+  Telematics and Vehicle APIs documented with Swagger/OpenAPI), but access
+  is gated to partners and internal Toyota teams — no public, unauthenticated
+  OpenAPI specifications are published. Third-party access to Toyota
+  vehicle data for individual developers is typically brokered through
+  partners such as Smartcar and High Mobility rather than directly via
+  Toyota's own portals.
+type: Index
+position: Provider
+access: Partner
+image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
+tags:
+  - Automotive
+  - Connected Vehicle
+  - Connected Car
+  - Telematics
+  - Mobility
+  - Mobility Services
+  - Mobility As A Service
+  - MSPF
+  - Drivelink
+  - Safety Connect
+  - Service Connect
+  - Remote Connect
+  - Destination Assist
+  - Digital Key
+  - KINTO
+  - Car Subscription
+  - Car Sharing
+  - Ride Hailing
+  - Carpooling
+  - Fleet Telematics
+  - Big Data
+  - Voice Assistant
+  - Toyota
+  - Lexus
+url: https://raw.githubusercontent.com/api-evangelist/toyota-connected/refs/heads/main/apis.yml
+created: '2026-05-25'
+modified: '2026-05-25'
+specificationVersion: '0.20'
+apis: []
+common:
+  - type: Website
+    url: https://www.toyotaconnected.com
+  - type: AboutTCNA
+    url: https://www.toyotaconnected.com/about
+  - type: ProductsAndServices
+    url: https://www.toyotaconnected.com/products-services
+  - type: Insights
+    url: https://www.toyotaconnected.com/insights
+  - type: Careers
+    url: https://www.toyotaconnected.com/careers
+  - type: ToyotaConnectedJapan
+    url: https://toyotaconnected.co.jp/en/
+  - type: ToyotaConnectedJapanProfile
+    url: https://toyotaconnected.co.jp/en/company/profile.html
+  - type: ToyotaConnectedJapanHistory
+    url: https://toyotaconnected.co.jp/en/company/history.html
+  - type: ToyotaConnectedJapanGlobalNetwork
+    url: https://toyotaconnected.co.jp/en/company/global.html
+  - type: MSPFConnectedPlatform
+    url: https://toyotaconnected.co.jp/en/service/connectedplatform.html
+  - type: ToyotaConnectedEurope
+    url: https://www.toyotaconnected.eu
+  - type: ToyotaDeveloperPortal
+    url: https://developer.eig.toyota.com/
+  - type: ToyotaDeveloperPortalAPIs
+    url: https://developer.eig.toyota.com/apis
+  - type: ToyotaConnectedEUDeveloperPortal
+    url: https://developer.toyotaconnected.eu/
+  - type: ToyotaConnectedEUAPIServices
+    url: https://developer.toyotaconnected.eu/services
+  - type: KINTOMobility
+    url: https://www.kinto-mobility.com/
+  - type: KINTOEurope
+    url: https://www.toyota-europe.com/brands-and-services/kinto
+  - type: ToyotaGitHub
+    url: https://github.com/toyota
+  - type: SmartcarToyotaIntegration
+    url: https://smartcar.com/brand/toyota
+  - type: HighMobilityToyotaData
+    url: https://www.high-mobility.com/car-api/toyota
+  - type: LinkedIn
+    url: https://www.linkedin.com/company/toyota-connected-north-america
+maintainers:
+  - FN: Kin Lane
+    email: kin@apievangelist.com
