@@ -54,6 +54,31 @@ access: Partner
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/toyota-connected.png
 tags:
   - Automotive
+  - Connected Vehicles
+  - Connected Car
+  - Telematics
+  - Mobility
+  - Mobility Services
+  - Mobility As A Service
+  - MSPF
+  - Drivelink
+  - Safety Connect
+  - Service Connect
+  - Remote Connect
+  - Destination Assist
+  - Digital Key
+  - KINTO
+  - Car Subscription
+  - Car Sharing
+  - Ride Hailing
+  - Carpooling
+  - Fleet Telematics
+  - Big Data
+  - Voice Assistant
+  - Toyota
+  - Lexus
+tags_raw:
+  - Automotive
   - Connected Vehicle
   - Connected Car
   - Telematics
