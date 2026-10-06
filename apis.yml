@@ -104,10 +104,14 @@ tags_raw:
   - Lexus
 url: https://raw.githubusercontent.com/api-evangelist/toyota-connected/refs/heads/main/apis.yml
 created: '2026-05-25'
-modified: '2026-05-25'
+modified: '2026-10-06'
 specificationVersion: '0.23'
 apis: []
 common:
+  - url: https://toyotaconnected.com/insights/
+    type: Blog
+  - url: https://toyotaconnected.com/feed/
+    type: BlogRSS
   - type: DomainSecurity
     url: security/toyota-connected-domain-security.yml
   - type: Website
