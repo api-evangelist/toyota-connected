@@ -1,0 +1,21 @@
+{
+  "repo": "toyota-connected",
+  "feeds": [
+    {
+      "source": "https://toyotaconnected.com/insights/",
+      "feed_url": "https://toyotaconnected.com/insights/blog/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "discovered"
+    },
+    {
+      "source": "https://toyotaconnected.com/feed/",
+      "feed_url": "https://toyotaconnected.com/feed/",
+      "title": "",
+      "saved": 0,
+      "method": "feed"
+    }
+  ],
+  "post_count": 0,
+  "fetched": "2026-10-10T13:15:00Z"
+}
